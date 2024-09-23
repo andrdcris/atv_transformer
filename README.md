@@ -18,3 +18,19 @@ Este repositório contém um [tutorial](https://colab.research.google.com/drive/
 
 ## Testes
 Pricipais resultados: 
+
+- Teste 1:
+  
+ ![Teste1](teste.png)
+ 
+- Teste 2:
+  
+ ![Teste2](teste1.png)
+
+- Teste 3:
+  
+ ![Teste3](teste2.png)
+
+- Teste 4:
+  
+ ![Teste4](teste3.png)
